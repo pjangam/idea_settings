@@ -1,0 +1,44 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Exercism/scala/grade-school" value="PREVIEW" />
+            <entry key="$USER_HOME$/Exercism/scala/leap" value="PREVIEW" />
+            <entry key="$USER_HOME$/Exercism/scala/matching-brackets" value="PREVIEW" />
+            <entry key="$USER_HOME$/Exercism/scala/robot-name" value="PREVIEW" />
+            <entry key="$USER_HOME$/Exercism/scala/space-age" value="PREVIEW" />
+            <entry key="$USER_HOME$/Exercism/scala/two-fer" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
