@@ -5,7 +5,7 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="scala-sdk-2.13.1" type="Scala">
+    <library name="scala-sdk-2.13.2" type="Scala">
       <properties>
         <language-level>Scala_2_13</language-level>
         <compiler-classpath>
