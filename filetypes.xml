@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping pattern="GameOfLifeStepDefination" type="PLAIN_TEXT" />
+      <mapping ext="qrc" type="XML" />
     </extensionMap>
   </component>
 </application>
