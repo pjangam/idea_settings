@@ -1,0 +1,7 @@
+<keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
+  <action id="ReformatCode" />
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift meta alt l" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+</keymap>
