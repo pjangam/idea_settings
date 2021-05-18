@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="9faa41cf-e4f8-4b2d-ad2a-06eaa41cfc5f" name="pjangam">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
