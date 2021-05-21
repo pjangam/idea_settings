@@ -1,11 +1,15 @@
 <scheme name="_@user_Monokai Pro" version="142">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-12-20T11:39:28</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2021-05-19T16:57:29</property>
+    <property name="modified">2021-05-21T12:20:42</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a9dc76" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
