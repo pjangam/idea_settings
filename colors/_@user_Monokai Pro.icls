@@ -4,7 +4,7 @@
     <property name="created">2019-12-20T11:39:28</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2021-05-24T14:26:19</property>
+    <property name="modified">2021-05-26T11:33:39</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -54,14 +54,14 @@
     <option name="MODIFIED_LINES_COLOR" value="fc9867" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="eeffff" />
-    <option name="NOTIFICATION_BACKGROUND" value="19181a" />
+    <option name="NOTIFICATION_BACKGROUND" value="a080b0" />
     <option name="NOT_CHANGED" value="939393" />
     <option name="QUESTION_HINT" value="403e41" />
     <option name="RECENT_LOCATIONS_SELECTION" value="221f22" />
     <option name="RIGHT_MARGIN_COLOR" value="403e41" />
     <option name="SELECTED_INDENT_GUIDE" value="78dce8" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffd866" />
-    <option name="SELECTION_BACKGROUND" value="403e41" />
+    <option name="SELECTION_BACKGROUND" value="5d3f69" />
     <option name="SEPARATOR_ABOVE_COLOR" value="363337" />
     <option name="SEPARATOR_BELOW_COLOR" value="363337" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="403e41" />
