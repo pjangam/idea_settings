@@ -1,0 +1,18 @@
+<keymap version="1" name="VSCode (macOS) copy 1" parent="VSCode OSX">
+  <action id="ActivateRunToolWindow" />
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="Jdbc.OpenConsole.New.Generate" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="meta f2" />
+    <keyboard-shortcut first-keystroke="ctrl meta g" />
+  </action>
+  <action id="me.laria.code.idea_caseconv.LowerCaseAction">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="me.laria.code.idea_caseconv.SnakeCaseAction">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="me.laria.code.idea_caseconv.UpperCaseAction">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+</keymap>
