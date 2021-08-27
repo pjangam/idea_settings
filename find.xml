@@ -10,5 +10,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.py</mask>
     <mask>*.ex</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
