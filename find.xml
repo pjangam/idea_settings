@@ -9,10 +9,11 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.exs" />
     <mask>*.yaml</mask>
-    <mask>*.exs</mask>
     <mask>*.ex</mask>
     <mask>*.py</mask>
     <mask>*.mjml</mask>
+    <mask>*.exs</mask>
   </component>
 </application>
