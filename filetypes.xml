@@ -2,13 +2,12 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="localenvtemplate" type="AUTO_DETECTED" />
-      <mapping pattern=".mjmlconfig" type="JSON" />
-      <mapping ext="space.kts" type="Kotlin" />
+      <mapping pattern="GameOfLifeStepDefination" type="PLAIN_TEXT" />
+      <mapping pattern="x" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="x" type="PLAIN_TEXT" />
-      <mapping pattern="GameOfLifeStepDefination" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env" approved="true" type="Env File" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
