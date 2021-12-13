@@ -1,21 +1,17 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.yaml</mask>
     <mask>*.exs</mask>
     <mask>*.html</mask>
     <mask>*.mjml</mask>
     <mask>*.yml</mask>
-    <mask>*.json</mask>
     <mask>*.ex</mask>
     <mask>*.py</mask>
+    <mask>*.json</mask>
   </component>
 </application>
