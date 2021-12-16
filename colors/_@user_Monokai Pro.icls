@@ -1,16 +1,11 @@
 <scheme name="_@user_Monokai Pro" version="142">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-12-20T11:39:28</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2021-05-26T11:33:39</property>
+    <property name="modified">2021-12-16T16:09:41</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro for Powerline" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a9dc76" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -54,14 +49,14 @@
     <option name="MODIFIED_LINES_COLOR" value="fc9867" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="MT_SUPPRESSED" value="eeffff" />
-    <option name="NOTIFICATION_BACKGROUND" value="a080b0" />
+    <option name="NOTIFICATION_BACKGROUND" value="19181a" />
     <option name="NOT_CHANGED" value="939393" />
     <option name="QUESTION_HINT" value="403e41" />
     <option name="RECENT_LOCATIONS_SELECTION" value="221f22" />
     <option name="RIGHT_MARGIN_COLOR" value="403e41" />
     <option name="SELECTED_INDENT_GUIDE" value="78dce8" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffd866" />
-    <option name="SELECTION_BACKGROUND" value="5d3f69" />
+    <option name="SELECTION_BACKGROUND" value="403e41" />
     <option name="SEPARATOR_ABOVE_COLOR" value="363337" />
     <option name="SEPARATOR_BELOW_COLOR" value="363337" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="403e41" />
@@ -1312,7 +1307,6 @@
     <option name="LOG_WARNING_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffd866" />
-        <option name="BACKGROUND" value="221f22" />
       </value>
     </option>
     <option name="LUA_FIELD">
@@ -3455,8 +3449,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="f8e71c" />
+        <option name="FOREGROUND" value="fcfcfa" />
+        <option name="BACKGROUND" value="5b595c" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
