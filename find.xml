@@ -13,8 +13,8 @@
     <mask>*.mjml</mask>
     <mask>*.yml</mask>
     <mask>*.ex</mask>
-    <mask>*.py</mask>
     <mask>*.json</mask>
     <mask>*.exs</mask>
+    <mask>*.py</mask>
   </component>
 </application>
