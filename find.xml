@@ -9,8 +9,8 @@
     <mask>*.mjml</mask>
     <mask>*.yml</mask>
     <mask>*.json</mask>
-    <mask>*.py</mask>
     <mask>*.ex</mask>
     <mask>*.exs</mask>
+    <mask>*.py</mask>
   </component>
 </application>
