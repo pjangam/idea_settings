@@ -4,13 +4,14 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.yaml</mask>
     <mask>*.html</mask>
     <mask>*.mjml</mask>
     <mask>*.yml</mask>
-    <mask>*.json</mask>
     <mask>*.ex</mask>
     <mask>*.exs</mask>
     <mask>*.py</mask>
+    <mask>*.json</mask>
   </component>
 </application>
