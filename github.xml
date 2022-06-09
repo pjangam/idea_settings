@@ -1,6 +1,6 @@
 <application>
   <component name="GithubAccounts">
-    <account id="9faa41cf-e4f8-4b2d-ad2a-06eaa41cfc5f" name="pjangam">
+    <account name="pjangam" id="1ae6573f-a133-4108-93da-676c11f154f9">
       <server host="github.com" />
     </account>
   </component>
