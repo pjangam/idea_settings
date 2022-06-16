@@ -4,14 +4,15 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.yaml</mask>
     <mask>*.html</mask>
     <mask>*.mjml</mask>
     <mask>*.exs</mask>
     <mask>*.ex</mask>
     <mask>serializer.py</mask>
-    <mask>*.json</mask>
     <mask>*.yml</mask>
+    <mask>*.json</mask>
     <mask>*.py</mask>
   </component>
 </application>
