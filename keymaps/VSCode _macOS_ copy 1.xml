@@ -1,5 +1,10 @@
 <keymap version="1" name="VSCode (macOS) copy 1" parent="VSCode OSX">
   <action id="ActivateRunToolWindow" />
+  <action id="EditorIndentLineOrSelection" />
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenConsole.New.Generate" />
   <action id="SelectAllOccurrences">
