@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <mask>*.yaml</mask>
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.html</mask>
     <mask>*.mjml</mask>
     <mask>*.exs</mask>
@@ -14,5 +14,6 @@
     <mask>*.yml</mask>
     <mask>*.py</mask>
     <mask>*.json</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
