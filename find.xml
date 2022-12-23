@@ -16,9 +16,9 @@
     <mask>serializer.py</mask>
     <mask>*.yaml</mask>
     <mask>*.yml</mask>
-    <mask>*.json</mask>
     <mask>*.y*ml</mask>
     <mask>*.env</mask>
+    <mask>*.json</mask>
     <mask>*.py</mask>
   </component>
 </application>
