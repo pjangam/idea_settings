@@ -13,8 +13,8 @@
     <mask>*.yaml</mask>
     <mask>*.yml</mask>
     <mask>*.y*ml</mask>
-    <mask>*.json</mask>
     <mask>*.env</mask>
+    <mask>*.json</mask>
     <mask>*.py</mask>
   </component>
 </application>
