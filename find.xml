@@ -6,7 +6,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.sh" />
     <mask>*.html</mask>
     <mask>*.mjml</mask>
     <mask>*.exs</mask>
@@ -16,8 +16,8 @@
     <mask>*.env</mask>
     <mask>*.yml</mask>
     <mask>*.y*ml</mask>
-    <mask>*.sh</mask>
     <mask>*.json</mask>
     <mask>*.py</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
