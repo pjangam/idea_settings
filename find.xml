@@ -9,7 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.y*ml" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.html</mask>
     <mask>*.mjml</mask>
     <mask>*.exs</mask>
@@ -20,7 +20,7 @@
     <mask>*.sh</mask>
     <mask>*.json</mask>
     <mask>*.env</mask>
-    <mask>*.py</mask>
     <mask>*.y*ml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
