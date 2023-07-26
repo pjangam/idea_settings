@@ -13,7 +13,7 @@
     <mask>*.sh</mask>
     <mask>*.json</mask>
     <mask>*.env</mask>
-    <mask>*.py</mask>
     <mask>*.y*ml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
