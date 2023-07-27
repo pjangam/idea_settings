@@ -2,14 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.json" />
     <mask>*.html</mask>
     <mask>*.mjml</mask>
     <mask>*.exs</mask>
@@ -19,8 +14,8 @@
     <mask>*.yml</mask>
     <mask>*.sh</mask>
     <mask>*.env</mask>
-    <mask>*.y*ml</mask>
     <mask>*.py</mask>
     <mask>*.json</mask>
+    <mask>*.y*ml</mask>
   </component>
 </application>
