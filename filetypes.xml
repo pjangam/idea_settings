@@ -6,6 +6,7 @@
       <mapping ext="env" type="Env File" />
       <mapping pattern="GameOfLifeStepDefination" type="PLAIN_TEXT" />
       <mapping pattern="x" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
