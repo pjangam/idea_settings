@@ -16,8 +16,8 @@
     <mask>*.yml</mask>
     <mask>*.sh</mask>
     <mask>*.y*ml</mask>
-    <mask>*.env</mask>
     <mask>*.json</mask>
     <mask>*.py</mask>
+    <mask>*.env</mask>
   </component>
 </application>
