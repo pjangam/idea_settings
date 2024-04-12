@@ -11,9 +11,9 @@
     <mask>*.yaml</mask>
     <mask>*.yml</mask>
     <mask>*.sh</mask>
-    <mask>*.y*ml</mask>
     <mask>*.json</mask>
     <mask>*.env</mask>
     <mask>*.py</mask>
+    <mask>*.y*ml</mask>
   </component>
 </application>
