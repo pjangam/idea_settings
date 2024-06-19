@@ -5,5 +5,23 @@
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
       </configuration>
     </remote-server>
+    <remote-server name="Docker2" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="/Users" />
+              <option name="virtualMachinePath" value="/Users" />
+            </DockerPathMappingImpl>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="/usr/local/bin/" />
+              <option name="virtualMachinePath" value="PATH" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
   </component>
 </application>
