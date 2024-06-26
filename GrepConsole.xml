@@ -10,6 +10,72 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="1719376599" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-65743" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16777216" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="{&quot;message&quot;: &quot;[correlation_id: 05e5c516-5eb3-45c4-a531-e34fa04d0a34] Failed while connecting to Processor Card Service: HTTPSConnectionPool(host='ii8178nd2m.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /sandbox/api/cards (Caused by NewConnectionError('&lt;urllib3.connection.HTTPSConnection object at 0x110574ee0&gt;: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))&quot;, &quot;name&quot;: &quot;common.app_logger&quot;, &quot;pathname&quot;: &quot;/Users/pramodjangam/code/deserve/platform-account-service/common/app_logger.py&quot;, &quot;filename&quot;: &quot;app_logger.py&quot;, &quot;module&quot;: &quot;app_logger&quot;, &quot;exc_text&quot;: null, &quot;stack_info&quot;: null, &quot;created&quot;: 1719376599.818717, &quot;thread&quot;: 140704670498752, &quot;process&quot;: 24601, &quot;timestamp&quot;: &quot;2024-06-26T04:36:39.818717+00:00&quot;, &quot;env&quot;: &quot;qa&quot;, &quot;SERVICE_NAME&quot;: &quot;&quot;, &quot;SERVICE&quot;: &quot;&quot;, &quot;correlation_id&quot;: &quot;05e5c516-5eb3-45c4-a531-e34fa04d0a34&quot;, &quot;apigateway_request_id&quot;: null, &quot;account_id&quot;: null, &quot;tenant_id&quot;: &quot;dcebdbea-7198-408c-9e5d-9d41943c8d9f&quot;, &quot;wall_time&quot;: null, &quot;context_name&quot;: null, &quot;line_no&quot;: 21, &quot;thread_name&quot;: &quot;MainThread&quot;, &quot;process_name&quot;: &quot;MainProcess&quot;, &quot;level_name&quot;: &quot;ERROR&quot;, &quot;level_no&quot;: 40, &quot;func_name&quot;: &quot;log&quot;}&#10;" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-988" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16777216" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="{&quot;message&quot;: &quot;[correlation_id: 05e5c516-5eb3-45c4-a531-e34fa04d0a34] Failed while connecting to Processor Card Service: HTTPSConnectionPool(host='ii8178nd2m.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /sandbox/api/cards (Caused by NewConnectionError('&lt;urllib3.connection.HTTPSConnection object at 0x110574ee0&gt;: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))&quot;, &quot;name&quot;: &quot;common.app_logger&quot;, &quot;pathname&quot;: &quot;/Users/pramodjangam/code/deserve/platform-account-service/common/app_logger.py&quot;, &quot;filename&quot;: &quot;app_logger.py&quot;, &quot;module&quot;: &quot;app_logger&quot;, &quot;exc_text&quot;: null, &quot;stack_info&quot;: null, &quot;created&quot;: 1719376599.818717, &quot;thread&quot;: 140704670498752, &quot;process&quot;: 24601, &quot;timestamp&quot;: &quot;2024-06-26T04:36:39.818717+00:00&quot;, &quot;env&quot;: &quot;qa&quot;, &quot;SERVICE_NAME&quot;: &quot;&quot;, &quot;SERVICE&quot;: &quot;&quot;, &quot;correlation_id&quot;: &quot;05e5c516-5eb3-45c4-a531-e34fa04d0a34&quot;, &quot;apigateway_request_id&quot;: null, &quot;account_id&quot;: null, &quot;tenant_id&quot;: &quot;dcebdbea-7198-408c-9e5d-9d41943c8d9f&quot;, &quot;wall_time&quot;: null, &quot;context_name&quot;: null, &quot;line_no&quot;: 21, &quot;thread_name&quot;: &quot;MainThread&quot;, &quot;process_name&quot;: &quot;MainProcess&quot;, &quot;level_name&quot;: &quot;ERROR&quot;, &quot;level_no&quot;: 40, &quot;func_name&quot;: &quot;log&quot;}&#10;" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-65743" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16777216" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="style">
