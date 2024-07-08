@@ -14,11 +14,11 @@
     <mask>*.ex</mask>
     <mask>serializer.py</mask>
     <mask>*.yaml</mask>
-    <mask>*.yml</mask>
     <mask>*.sh</mask>
     <mask>*.y*ml</mask>
     <mask>*.env</mask>
     <mask>*.json</mask>
+    <mask>*.yml</mask>
     <mask>*.py</mask>
   </component>
 </application>
