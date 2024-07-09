@@ -11,6 +11,50 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="{&quot;message&quot;: &quot;\&quot;GET /api/user/5928d9bd-216e-43c4-82e2-329502f72804 HTTP/1.1\&quot; 500 145&quot;, &quot;name&quot;: &quot;django.server&quot;, &quot;pathname&quot;: &quot;/Users/pramodjangam/.local/share/virtualenvs/platform-account-service-PzSn_0zu/lib/python3.8/site-packages/django/core/servers/basehttp.py&quot;, &quot;filename&quot;: &quot;basehttp.py&quot;, &quot;module&quot;: &quot;basehttp&quot;, &quot;exc_text&quot;: null, &quot;stack_info&quot;: null, &quot;created&quot;: 1720511456.1517272, &quot;thread&quot;: 123145399877632, &quot;process&quot;: 78314, &quot;server_time&quot;: &quot;09/Jul/2024 07:50:56&quot;, &quot;status_code&quot;: 500, &quot;timestamp&quot;: &quot;2024-07-09T07:50:56.151727+00:00&quot;, &quot;env&quot;: &quot;sandbox&quot;, &quot;SERVICE_NAME&quot;: &quot;&quot;, &quot;SERVICE&quot;: &quot;&quot;, &quot;correlation_id&quot;: &quot;16849f1b-9be6-4558-b747-b3da23aa838b&quot;, &quot;apigateway_request_id&quot;: null, &quot;account_id&quot;: null, &quot;tenant_id&quot;: &quot;c327f995-d63d-4c1f-9453-97a0fbe92295&quot;, &quot;wall_time&quot;: null, &quot;context_name&quot;: null, &quot;line_no&quot;: 161, &quot;thread_name&quot;: &quot;Thread-6&quot;, &quot;process_name&quot;: &quot;MainProcess&quot;, &quot;level_name&quot;: &quot;ERROR&quot;, &quot;level_no&quot;: 40, &quot;func_name&quot;: &quot;log_message&quot;}&#10;" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-11611192" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16777216" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="{&quot;message&quot;: &quot;\&quot;GET /api/user/5928d9bd-216e-43c4-82e2-329502f72804 HTTP/1.1\&quot; 500 145&quot;, &quot;name&quot;: &quot;django.server&quot;, &quot;pathname&quot;: &quot;/Users/pramodjangam/.local/share/virtualenvs/platform-account-service-PzSn_0zu/lib/python3.8/site-packages/django/core/servers/basehttp.py&quot;, &quot;filename&quot;: &quot;basehttp.py&quot;, &quot;module&quot;: &quot;basehttp&quot;, &quot;exc_text&quot;: null, &quot;stack_info&quot;: null, &quot;created&quot;: 1720511456.1517272, &quot;thread&quot;: 123145399877632, &quot;process&quot;: 78314, &quot;server_time&quot;: &quot;09/Jul/2024 07:50:56&quot;, &quot;status_code&quot;: 500, &quot;timestamp&quot;: &quot;2024-07-09T07:50:56.151727+00:00&quot;, &quot;env&quot;: &quot;sandbox&quot;, &quot;SERVICE_NAME&quot;: &quot;&quot;, &quot;SERVICE&quot;: &quot;&quot;, &quot;correlation_id&quot;: &quot;16849f1b-9be6-4558-b747-b3da23aa838b&quot;, &quot;apigateway_request_id&quot;: null, &quot;account_id&quot;: null, &quot;tenant_id&quot;: &quot;c327f995-d63d-4c1f-9453-97a0fbe92295&quot;, &quot;wall_time&quot;: null, &quot;context_name&quot;: null, &quot;line_no&quot;: 161, &quot;thread_name&quot;: &quot;Thread-6&quot;, &quot;process_name&quot;: &quot;MainProcess&quot;, &quot;level_name&quot;: &quot;ERROR&quot;, &quot;level_no&quot;: 40, &quot;func_name&quot;: &quot;log_message&quot;}&#10;" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-8781941" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16777216" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
                       <option name="grepExpression" value="1719376599" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
