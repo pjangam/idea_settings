@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.env" />
     <mask>*.html</mask>
     <mask>*.mjml</mask>
     <mask>*.exs</mask>
@@ -14,9 +12,9 @@
     <mask>*.yaml</mask>
     <mask>*.sh</mask>
     <mask>*.yml</mask>
-    <mask>*.env</mask>
     <mask>*.y*ml</mask>
     <mask>*.json</mask>
     <mask>*.py</mask>
+    <mask>*.env</mask>
   </component>
 </application>
