@@ -14,7 +14,7 @@
     <mask>*.tf</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
-    <mask>*.py</mask>
     <mask>*.y*ml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
