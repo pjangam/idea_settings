@@ -24,6 +24,50 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="apply-service                | 2024-11-28 06:48:38,188 Thread-5 (process_request_thread) 140032120015672 common.app_logger INFO     [correlation_id: 2e47f73a-0bb7-4eae-afe7-a9be4c01d84f] [app_id: c81644d1-137a-4d36-8ddd-ceb702948666] [program_id: de6e6ca2-a09d-445e-8bf9-9b4ba6ab32b0] retrying CREDIT_DECISION_ESCALATION_HANDLER for application c81644d1-137a-4d36-8ddd-ceb702948666&#10;" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-14300091" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16777216" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="apply-service                | 2024-11-28 06:48:38,188 Thread-5 (process_request_thread) 140032120015672 common.app_logger INFO     [correlation_id: 2e47f73a-0bb7-4eae-afe7-a9be4c01d84f] [app_id: c81644d1-137a-4d36-8ddd-ceb702948666] [program_id: de6e6ca2-a09d-445e-8bf9-9b4ba6ab32b0] retrying CREDIT_DECISION_ESCALATION_HANDLER for application c81644d1-137a-4d36-8ddd-ceb702948666&#10;" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-15484888" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16777216" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
                       <option name="grepExpression" value=" performing escalation checks" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
